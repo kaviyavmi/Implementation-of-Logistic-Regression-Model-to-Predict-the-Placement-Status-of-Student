@@ -25,6 +25,8 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: V M KAVIYA
 RegisterNumber: 212224040154  
 */
+```
+```
 import pandas as pd
 data=pd.read_csv(r"C:\Users\L390 Yoga\Downloads\Placement_Data.csv")
 data.head()
@@ -72,7 +74,6 @@ cm_display.plot()
 ## Output:
 
 <img width="853" height="321" alt="image" src="https://github.com/user-attachments/assets/89d05092-9bb8-41e4-be51-6cfd0cdb1b1d" />
-
 
 <img width="997" height="700" alt="image" src="https://github.com/user-attachments/assets/d0a95be2-fd6f-44ad-9f8b-996af7c11823" />
 
